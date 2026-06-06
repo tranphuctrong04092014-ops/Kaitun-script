@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tqlsc/Kaitun/main/Main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/KaitunBloxFruits.lua"))()
 getgenv().Config = {
     ["Setting"] = {
         ["AutoServerHop"] = true,
