@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tqlsc/Kaitun/main/Main.lua"))()
 getgenv().Config = {
     ["Setting"] = {
         ["AutoServerHop"] = true,
