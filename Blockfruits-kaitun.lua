@@ -13,10 +13,21 @@ getgenv().Config = {
         }
     },
     ["MainItem"] = {
+
+        --[guns]
+        ["Soul Guitar"] = true,
+        ["Kabucha"] = true,
+        ["Acidum Rifle"] = true,
+        ["Slingshot"] = true,
+        ["Musket"] = true,
+        ["Serpent Bow"] = true,
+
+        --[melee]
         ["GodHuman"] = true,
+
+        --[sword]
         ["Cursed Dual Katana"] = true,
         ["True Triple Katana"] = true,
-        ["Skull Guitar"] = true,
         ["Shark Anchor"] = true,
         ["Saber"] = true,
         ["Yama"] = true,
@@ -24,7 +35,6 @@ getgenv().Config = {
         ["Rengoku"] = true,
         ["Hallow Scythe"] = true,
         ["Dragon Trident"] = true,
-        ["Kabucha"] = true,
         ["Spikey Trident"] = true,
         ["Gravity Blade"] = true,
         ["Shisui"] = true,
@@ -32,8 +42,6 @@ getgenv().Config = {
         ["Wando"] = true,
         ["Canvander"] = true,
         ["Buddy Sword"] = true,
-        ["Serpent Bow"] = true,
-        ["Acidum Rifle"] = true,
         ["Pole 1st Form"] = true
     },
     ["Quest"] = {
